@@ -1,4 +1,4 @@
-# SetVarChunk
+# ModifiedSetVarBlock
 #
 # $Id$
 #
